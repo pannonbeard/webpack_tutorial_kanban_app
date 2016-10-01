@@ -1,12 +1,19 @@
 {
   "name": "kanban_app",
   "version": "1.0.0",
-  "description": "",
+  "description": "tutorail from SuriveJS Webpack and React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfhendri/webpack_tutorial_kanban_app.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
 }
